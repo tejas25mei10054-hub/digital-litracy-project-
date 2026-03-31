@@ -5,8 +5,8 @@
 | Platform | Profile Link |
 |---|---|
 | GitHub | [tejas25mei10054-hub](https://github.com/tejas25mei10054-hub) |
-| LinkedIn | *(Add your LinkedIn profile link here)* |
-| Kaggle | *(Add your Kaggle profile link here)* |
+| LinkedIn | www.linkedin.com/in/tejas-v-mohan-07tj |
+| Kaggle | https://www.kaggle.com/tejasvmohan |
 
 ---
 
