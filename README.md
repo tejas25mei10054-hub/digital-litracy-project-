@@ -89,7 +89,8 @@ Researched and documented a detailed phishing case study, and created a Stay Saf
 ## Submission
 
 - **Submitted via:** VITyarthi Portal
-- **Repository URL:** https://github.com/tejas25mei10054-hub/digital-literacy-project
+- **Repository URL:** https://github.com/tejas25mei10054-hub/digital-litracy-project-
+
 
 ---
 
