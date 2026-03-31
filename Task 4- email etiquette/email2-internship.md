@@ -18,7 +18,7 @@ I am eager to gain hands-on exposure in the field of cyber security, particularl
 
 I would welcome the opportunity to learn from your professionals and apply my academic knowledge in a real-world environment. Please find attached my resume and GitHub profile link for your reference.
 
-I would be grateful if you could consider my application and let me know if there are any openings suitable for a first-year student. I am available to join from [internship start date] and can be flexible with the schedule as per your requirements.
+I would be grateful if you could consider my application and let me know if there are any openings suitable for a first-year student. I am available to join from [9th may 2026] and can be flexible with the schedule as per your requirements.
 
 Thank you for your time and consideration. I look forward to hearing from you.
 
