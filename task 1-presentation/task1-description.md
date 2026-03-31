@@ -19,6 +19,3 @@ The infographic is titled **"Digital Literacy: Your Superpower in the Digital Ag
 ## Reflection
 
 While creating this infographic on Canva, I found the drag-and-drop interface very intuitive and easy to use, even without any prior design experience. I chose icons and a colour scheme (blue and white) that felt clean and professional. The most interesting part was figuring out how to condense complex ideas like digital literacy into short, punchy phrases that would make sense at a glance. The most difficult part was deciding what NOT to include — there was so much content I wanted to add, but keeping it to one page meant I had to prioritise only the most important points. This exercise made me realise how powerful visual communication can be when done well.
-
----
-*Screenshot of the Canva infographic: Add your exported PNG/JPEG here after creating it on Canva.*
